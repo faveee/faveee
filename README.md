@@ -16,7 +16,7 @@
   
 - 🌱 I’m currently learning NextJs
   
-- 👯 I’m looking to collaborate on Open Source Projects
+- 👯 I'm also open for collaboration
   
 - 💬 Ask me about HTML, CSS, JavaScript, Tailwind, Bootstrap, Git, GitHub and ReactJs
   
