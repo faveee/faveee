@@ -43,7 +43,7 @@
 <br>
   <br>
   
-| ![Favour's github stats](https://github-readme-stats.vercel.app/api?username=favue&show_icons=true&theme=tokyonight) | ![Favour GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faveee&theme=tokyonight) |
+| ![Favour's github stats](https://github-readme-stats.vercel.app/api?username=faveee&show_icons=true&theme=tokyonight) | ![Favour GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faveee&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faveee&theme=tokyonight) 
 
